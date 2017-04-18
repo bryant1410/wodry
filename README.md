@@ -1,10 +1,10 @@
-##About
+## About
 
 Wodry.js is a simple jQuery plugin for a text flipping/rotating written in CoffeeScript. It was inspired by the Adjector.js. Wodry.js does the same things but it has new features that allow you to set animation from animations collection, set your own callback on content flipping, etc.
 
 <center>[![examples-gif](./wodry-examples.gif "Examples")](http://daynin.github.io/wodry/#examples)</center>
 
-##How to get it
+## How to get it
 
 You can download this repository or install it from Bower:
 
@@ -12,7 +12,7 @@ You can download this repository or install it from Bower:
 bower install wodry
 ```
 
-##How it works
+## How it works
 
 In the first place you need to include **wodry.css** and **wodry.js** (or **wodry.min.js**) files then create html tag with content that will flip/rotate (like this):
 
@@ -72,11 +72,11 @@ List of animations:
 - clockwise;
 - anticlockwise;
 
-##[Examples here](http://daynin.github.io/wodry/#examples)
+## [Examples here](http://daynin.github.io/wodry/#examples)
 
-##Development
+## Development
 
-###Prerequirements
+### Prerequirements
 
 - [node.js](http://nodejs.org/)
 - grunt
@@ -95,7 +95,7 @@ For project building run:
 ```bash
     grunt
 ```
-###Contributions & Issues
+### Contributions & Issues
 
 All your issues and pull requests are welcome!
 
